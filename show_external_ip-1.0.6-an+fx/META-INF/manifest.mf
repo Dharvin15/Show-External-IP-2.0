@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: 66.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LXCt42Gxvs+suQqr6Qzg0Q==
+SHA1-Digest: Aug4OYiUFg/2r8h0fnMik8rGJSE=
+
+Name: icon-dark.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7OatQ3z4BnUXU+ywSHui6Q==
+SHA1-Digest: W9Y36ygdd+LvKuc8ZNyYggo+Rg8=
+
+Name: icon-light.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tw/U0PwqWtZQ++XI8l3oxg==
+SHA1-Digest: 95pgDuuaBaUCnKWSFHKgfCXgjxg=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u6DoVdZx21O7O0biN+Nl5Q==
+SHA1-Digest: MZvp1nKOqTNpEliGWA4FHXup+Zk=
+
+Name: showextip.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9GFen1Qe0CQhovYjxVaeKQ==
+SHA1-Digest: gZSuNsAfkM8/YWy3hIMBEz5znnE=
+
+Name: showextip.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OZrZsNKjGk9t5w/MCkdKOw==
+SHA1-Digest: rH7Tn5dVFLfssqDb38JksMB7wro=
+
